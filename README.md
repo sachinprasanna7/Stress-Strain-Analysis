@@ -1,2 +1,2 @@
-# Machine_Learning
-Simple Machine Learning assignments and Code written
+# Stress Strain Analysis
+Simple code to analyse stress and strain curves in the field of metallurgy.
